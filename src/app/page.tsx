@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
 
 export default function Home() {
-  return <Button>BootCamp!</Button>;
+  return <Button>Boraaaa</Button>;
 }
